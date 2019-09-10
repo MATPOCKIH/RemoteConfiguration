@@ -1,0 +1,11 @@
+[
+  {
+    "version": "1.7",
+    "forceUpdate": false,
+    "features":
+    {
+      "premium": true,
+      "sharing": true
+    }
+  }
+]
